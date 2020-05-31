@@ -40,7 +40,8 @@
 }
 
 #resume {
-  padding: 5% 27%;
+  padding-top: 5%;
+  padding-bottom: 5%;
   background-color: rgb(81,81,81,0.3);
 }
 
@@ -132,4 +133,8 @@ small {
 
 i:hover {
   color: #eaeaeb;
+}
+
+iframe {
+  display: block;
 }
