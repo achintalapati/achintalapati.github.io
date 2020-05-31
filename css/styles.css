@@ -1,0 +1,135 @@
+.navbar {
+    margin: 0;
+    border: 0;
+}
+
+.nav-container {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.nav-background {
+  background-color: #292b2c;
+}
+
+#about-me {
+  padding: 13.7% 15% 7.45% 15%;
+  background-color: rgb(81,81,81,0.3);
+}
+
+.about-me {
+  padding-top: 4%;
+}
+
+.prof-image {
+  padding-left: 25%;
+
+}
+
+#mathletes {
+  padding: 7% 15% 7% 15%;
+  background-color: rgb(81,81,81,0.3);
+}
+
+#school {
+  padding: 4% 15% 6% 15%;
+  background-color: rgb(81,81,81,0.3);
+}
+
+#resume {
+  padding: 5% 27%;
+  background-color: rgb(81,81,81,0.3);
+}
+
+#portfolio {
+  padding: 6% 15% 5% 15%;
+  background-color: rgb(81,81,81,0.3);
+}
+
+#tutoring {
+  padding: 5% 15% 13.42% 15%;
+  background-color: rgb(81,81,81,0.3);
+}
+
+.wpi-image {
+  padding-top: 19%;
+  padding-left: 25%;
+  height: 400px;
+  width: 470px;
+}
+
+.mams-image {
+  padding-top: 19%;
+  padding-left: 12%;
+  height: 400px;
+  width: 450px;
+}
+
+.schools {
+  padding-bottom: 7%;
+}
+
+.mams {
+  padding-top: 13%;
+}
+
+.title {
+  align-content: center;
+  padding-bottom: 5%;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+.portfolio {
+  padding-top: 10%;
+}
+
+.icon {
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+.far{
+  color: #94979b;
+}
+
+.fab{
+  color: #94979b;
+}
+
+.mathletes-image {
+  width: 90%;
+}
+
+.text-center {
+  color: black;
+}
+
+.banner-title {
+  font-size: 64px;
+  color: white;
+}
+
+.banner-header {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  background-color: #343a40;
+}
+
+#banner {
+  border-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+small {
+  color: #94979b;
+}
+
+i:hover {
+  color: #eaeaeb;
+}
